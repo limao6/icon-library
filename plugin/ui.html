@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { font-family: Arial, sans-serif; font-size: 14px; padding: 4px; color: #666;}
+    .icon { width: 40px; height: 40px; cursor: pointer; position: relative; display: flex; justify-content: center; align-items: center; border-radius: 6px;}
+    .icon:hover { background-color: #F0F0F0;}
+    .icon-container { display: flex; flex-wrap: wrap; margin-top: 12px; padding-top: 12px; border-top: 1px solid #eee;}
+    .search-container { margin-bottom: 12px; }
+    input[type="text"] { width: 100%; padding: 6px 8px; border: 1px solid transparent; background-color: #F0F0F0; border-radius: 3px;}
+    input[type="text"]:focus { outline: none; border: 1px solid #333; }
+    select { width: 98px; padding: 6px; border: 1px solid transparent; background-color: #F0F0F0; border-radius: 3px;}
+    select:focus { outline: none; border: 1px solid #333; }
+    select:hover { background-color: #dedede;}
+    input[type="text"]:hover { background-color: #dedede;}
+    .tooltip {
+      position: absolute;
+      background-color: black; /* 设置为不透明的黑色 */
+      color: white;
+      padding: 5px;
+      border-radius: 4px;
+      font-size: 12px;
+      display: none; /* 默认隐藏 */
+      top: -30px; /* 根据需要调整位置 */
+      left: 50%;
+      transform: translateX(-50%);
+      white-space: nowrap; /* 防止换行 */
+      z-index: 9999; /* 确保 tooltip 在其他元素之上 */
+    }
+  </style>
+</head>
+<body>
+  <h2>图标库</h2>
+
+  <div class="search-container">
+    <input type="text" id="search" placeholder="搜索">
+  </div>
+
+  <label for="style">风格:</label>
+  <select id="style">
+    <option value="line">线性</option>
+    <option value="filled">面性</option>
+  </select>
+
+  <label style="margin-left: 8px;" for="category">分类:</label>
+  <select id="category">
+    <option value="layout">布局</option>
+    <option value="charts">图表</option>
+    <option value="security">安全</option>
+    <option value="education">教育</option>
+    <option value="development">开发</option>
+    <option value="arrows">箭头</option>
+    <option value="finance">金融</option>
+    <option value="general">通用</option>
+    <option value="feedback">反馈</option>
+    <option value="shapes">形状</option>
+    <option value="users">用户</option>
+    <option value="media">媒体</option>
+    <option value="images">图片</option>
+    <option value="communication">通信</option>
+    <option value="editor">编辑</option>
+    <option value="time">时间</option>
+    <option value="files">文件</option>
+    <option value="maps">地图</option>
+    <option value="weather">天气</option>
+  </select>
+
+  <div id="icon-container" class="icon-container"></div>
+
+  <script>
+    let icons = {};
+
+    // 从 GitHub 加载图标清单
+    async function loadIcons() {
+      const response = await fetch('https://raw.githubusercontent.com/limao6/icon-library/main/icons.json');
+      icons = await response.json();
+      renderIcons();
+    }
+
+    function renderIcons() {
+      const style = document.getElementById('style').value;
+      const category = document.getElementById('category').value;
+      const iconsToRender = icons[style][category];
+
+      const iconContainer = document.getElementById('icon-container');
+      iconContainer.innerHTML = ''; // 清空容器
+
+      iconsToRender.forEach(icon => {
+        const div = document.createElement('div');
+        div.classList.add('icon');
+
+        // 创建一个 img 元素来加载 SVG 图标
+        const img = document.createElement('img');
+        img.src = icon.svgUrl;
+        img.alt = icon.name;
+        img.width = 24; // 设置宽度
+        img.height = 24; // 设置高度
+        div.appendChild(img);
+
+        // 创建 tooltip 元素
+        const tooltip = document.createElement('div');
+        tooltip.className = 'tooltip';
+        tooltip.innerText = icon.name; // 设置 tooltip 内容
+        div.appendChild(tooltip);
+
+        // 添加鼠标悬停事件
+        div.addEventListener('mouseenter', () => {
+          tooltip.style.display = 'block'; // 显示 tooltip
+        });
+
+        div.addEventListener('mouseleave', () => {
+          tooltip.style.display = 'none'; // 隐藏 tooltip
+        });
+
+        // 添加点击事件
+        div.addEventListener('click', async () => {
+          const response = await fetch(icon.svgUrl);
+          const svgData = await response.text(); // 获取 SVG 文本内容
+
+          parent.postMessage({ 
+            pluginMessage: { 
+              type: 'insert-icon', 
+              svgData: svgData, // 传递 SVG 内容
+              layerName: icon.name, 
+              chineseName: icon.chineseName,
+            } 
+          }, '*');
+        });
+
+        iconContainer.appendChild(div);
+      });
+    }
+
+    function searchIcons() {
+      const searchTerm = document.getElementById('search').value.toLowerCase();
+      const style = document.getElementById('style').value;
+      const category = document.getElementById('category').value;
+
+      const filteredIcons = icons[style][category].filter(icon => 
+        icon.name.toLowerCase().includes(searchTerm) || 
+        icon.chineseName.toLowerCase().includes(searchTerm)
+      );
+
+      const iconContainer = document.getElementById('icon-container');
+      iconContainer.innerHTML = ''; // 清空容器
+
+      filteredIcons.forEach(icon => {
+        const div = document.createElement('div');
+        div.classList.add('icon');
+
+        const img = document.createElement('img');
+        img.src = icon.svgUrl;
+        img.alt = icon.name;
+        img.width = 40; // 设置宽度
+        img.height = 40; // 设置高度
+        div.appendChild(img);
+
+        const tooltip = document.createElement('div');
+        tooltip.className = 'tooltip';
+        tooltip.innerText = icon.name;
+        div.appendChild(tooltip);
+
+        div.addEventListener('mouseenter', () => {
+          tooltip.style.display = 'block';
+        });
+
+        div.addEventListener('mouseleave', () => {
+          tooltip.style.display = 'none';
+        });
+
+        div.addEventListener('click', async () => {
+          const response = await fetch(icon.svgUrl);
+          const svgData = await response.text(); // 获取 SVG 文本内容
+
+          parent.postMessage({ 
+            pluginMessage: { 
+              type: 'insert-icon', 
+              svgData: svgData, 
+              layerName: icon.name, 
+              chineseName: icon.chineseName,
+            } 
+          }, '*');
+        });
+
+        iconContainer.appendChild(div);
+      });
+    }
+
+    document.getElementById('style').addEventListener('change', renderIcons);
+    document.getElementById('category').addEventListener('change', renderIcons);
+    document.getElementById('search').addEventListener('input', searchIcons);
+
+    loadIcons(); // 初始化加载图标
+  </script>
+</body>
+</html>

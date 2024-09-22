@@ -1,0 +1,9 @@
+{
+  "name": "Icon Library",
+  "id": "your.plugin.id", 
+  "editorType": ["figma"],
+  "main": "code.js",
+  "ui": "ui.html",
+  "permissions": [],
+  "api": "1.0.0"
+}
