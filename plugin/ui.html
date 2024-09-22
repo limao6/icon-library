@@ -3,13 +3,13 @@
 <head>
   <style>
     body { font-family: Arial, sans-serif; font-size: 14px; padding: 4px; color: #666;}
-    .icon { width: 40px; height: 40px; cursor: pointer; position: relative; display: flex; justify-content: center; align-items: center; border-radius: 6px;}
-    .icon:hover { background-color: #F0F0F0;}
+    .icon { width: 40px; height: 40px; cursor: pointer; position: relative; display: flex; justify-content: center; align-items: center; border-radius: 4px;}
+    .icon:hover { background-color: #dedede;}
     .icon-container { display: flex; flex-wrap: wrap; margin-top: 12px; padding-top: 12px; border-top: 1px solid #eee;}
     .search-container { margin-bottom: 12px; }
-    input[type="text"] { width: 100%; padding: 6px 8px; border: 1px solid transparent; background-color: #F0F0F0; border-radius: 3px;}
+    input[type="text"] { width: 100%; padding: 6px 8px; font-size: 14px; border: 1px solid transparent; background-color: #F0F0F0; border-radius: 4px;}
     input[type="text"]:focus { outline: none; border: 1px solid #333; }
-    select { width: 98px; padding: 6px; border: 1px solid transparent; background-color: #F0F0F0; border-radius: 3px;}
+    select { width: 98px; padding: 6px; border: 1px solid transparent; background-color: #F0F0F0; border-radius: 4px;}
     select:focus { outline: none; border: 1px solid #333; }
     select:hover { background-color: #dedede;}
     input[type="text"]:hover { background-color: #dedede;}
@@ -151,8 +151,8 @@
         const img = document.createElement('img');
         img.src = icon.svgUrl;
         img.alt = icon.name;
-        img.width = 40; // 设置宽度
-        img.height = 40; // 设置高度
+        img.width = 24; // 设置宽度
+        img.height = 24; // 设置高度
         div.appendChild(img);
 
         const tooltip = document.createElement('div');
