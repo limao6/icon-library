@@ -1,5 +1,5 @@
 {
-  "name": "Icon Library",
+  "name": "Lemon Icon Library",
   "id": "your.plugin.id", 
   "editorType": ["figma"],
   "main": "code.js",
