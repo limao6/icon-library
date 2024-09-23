@@ -12917,12 +12917,6 @@
   "biline": {
     "layout": [
       {
-        "name": "grid-list-biline",
-        "chineseName": "网格列表",
-        "category": "layout",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/grid-list-biline.svg"
-      },
-      {
         "name": "align-bottom-01-biline",
         "chineseName": "底部对齐-01",
         "category": "layout",
@@ -13115,12 +13109,6 @@
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/rows-01-biline.svg"
       },
       {
-        "name": "align-top-01-biline",
-        "chineseName": "顶部对齐-01",
-        "category": "layout",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/align-top-01-biline.svg"
-      },
-      {
         "name": "grid-03-biline",
         "chineseName": "网格-03",
         "category": "layout",
@@ -13137,12 +13125,6 @@
         "chineseName": "行-02",
         "category": "layout",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/rows-02-biline.svg"
-      },
-      {
-        "name": "align-top-02-biline",
-        "chineseName": "顶部对齐-02",
-        "category": "layout",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/align-top-02-biline.svg"
       },
       {
         "name": "grid-dots-blank-biline",
@@ -13209,12 +13191,6 @@
         "chineseName": "高度间距-02",
         "category": "layout",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/spacing-height-02-biline.svg"
-      },
-      {
-        "name": "columns-01-biline",
-        "chineseName": "列-01",
-        "category": "layout",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/columns-01-biline.svg"
       },
       {
         "name": "grid-dots-left-biline",
@@ -13599,54 +13575,6 @@
     ],
     "security": [
       {
-        "name": "catalogue-key-biline",
-        "chineseName": "目录密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/catalogue-key-biline.svg"
-      },
-      {
-        "name": "function-key-biline",
-        "chineseName": "功能密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/function-key-biline.svg"
-      },
-      {
-        "name": "data-key-biline",
-        "chineseName": "数据密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/data-key-biline.svg"
-      },
-      {
-        "name": "grid-key-biline",
-        "chineseName": "网格密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/grid-key-biline.svg"
-      },
-      {
-        "name": "menu-key-biline",
-        "chineseName": "菜单密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/menu-key-biline.svg"
-      },
-      {
-        "name": "resources-key-biline",
-        "chineseName": "资源密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/resources-key-biline.svg"
-      },
-      {
-        "name": "user-key-biline",
-        "chineseName": "用户密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/user-key-biline.svg"
-      },
-      {
-        "name": "shield-search-biline",
-        "chineseName": "保护盾搜索",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/shield-search-biline.svg"
-      },
-      {
         "name": "face-id-biline",
         "chineseName": "面部识别",
         "category": "security",
@@ -13861,12 +13789,6 @@
         "chineseName": "保护盾-02",
         "category": "security",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/shield-02-biline.svg"
-      },
-      {
-        "name": "categray-key-biline",
-        "chineseName": "类别密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/categray-key-biline.svg"
       }
     ],
     "education": [
@@ -14003,12 +13925,6 @@
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/briefcase-01-biline.svg"
       },
       {
-        "name": "globe-slated-01-biline",
-        "chineseName": "全球-01",
-        "category": "education",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/globe-slated-01-biline.svg"
-      },
-      {
         "name": "trophy-01-biline",
         "chineseName": "奖杯-01",
         "category": "education",
@@ -14025,12 +13941,6 @@
         "chineseName": "公文包-02",
         "category": "education",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/briefcase-02-biline.svg"
-      },
-      {
-        "name": "globe-slated-02-biline",
-        "chineseName": "全球-02",
-        "category": "education",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/globe-slated-02-biline.svg"
       },
       {
         "name": "trophy-02-biline",
@@ -14058,12 +13968,6 @@
       }
     ],
     "development": [
-      {
-        "name": "database-plus-biline",
-        "chineseName": "数据库加",
-        "category": "development",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/database-plus-biline.svg"
-      },
       {
         "name": "brackets-biline",
         "chineseName": "括号",
@@ -14409,40 +14313,10 @@
     ],
     "arrows": [
       {
-        "name": "collapse-01-biline",
-        "chineseName": "折叠-01",
-        "category": "arrows",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/collapse-01-biline.svg"
-      },
-      {
-        "name": "collapse-03-biline",
-        "chineseName": "折叠-03",
-        "category": "arrows",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/collapse-03-biline.svg"
-      },
-      {
-        "name": "collapse-05-biline",
-        "chineseName": "折叠-05",
-        "category": "arrows",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/collapse-05-biline.svg"
-      },
-      {
-        "name": "collapse-06-biline",
-        "chineseName": "折叠-06",
-        "category": "arrows",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/collapse-06-biline.svg"
-      },
-      {
         "name": "arrow-block-down-biline",
         "chineseName": "箭头块向下",
         "category": "arrows",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/arrow-block-down-biline.svg"
-      },
-      {
-        "name": "collapse-04-biline",
-        "chineseName": "折叠-04",
-        "category": "arrows",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/collapse-04-biline.svg"
       },
       {
         "name": "arrow-left-biline",
@@ -15979,12 +15853,6 @@
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/check-circle-biline.svg"
       },
       {
-        "name": "heart-hexagon-biline",
-        "chineseName": "心形六角形",
-        "category": "general",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/heart-hexagon-biline.svg"
-      },
-      {
         "name": "menu-05-biline",
         "chineseName": "菜单-05",
         "category": "general",
@@ -16625,12 +16493,6 @@
         "chineseName": "分享-04",
         "category": "general",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/share-04-biline.svg"
-      },
-      {
-        "name": "seal-biline",
-        "chineseName": "印章",
-        "category": "general",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/seal-biline.svg"
       }
     ],
     "feedback": [
@@ -16675,12 +16537,6 @@
         "chineseName": "铃声关闭-03",
         "category": "feedback",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/bell-off-03-biline.svg"
-      },
-      {
-        "name": "notification-message-biline",
-        "chineseName": "通知消息",
-        "category": "feedback",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/notification-message-biline.svg"
       },
       {
         "name": "alert-octagon-biline",
@@ -16792,12 +16648,6 @@
       }
     ],
     "shapes": [
-      {
-        "name": "quadgon-biline",
-        "chineseName": "四边形",
-        "category": "shapes",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/quadgon-biline.svg"
-      },
       {
         "name": "circle-biline",
         "chineseName": "圆形",
@@ -17211,12 +17061,6 @@
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/keyboard-02-biline.svg"
       },
       {
-        "name": "guncam-01-biline",
-        "chineseName": "枪摄像头-01",
-        "category": "media",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/guncam-01-biline.svg"
-      },
-      {
         "name": "play-biline",
         "chineseName": "播放",
         "category": "media",
@@ -17419,12 +17263,6 @@
         "chineseName": "平板电脑-01",
         "category": "media",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/tablet-01-biline.svg"
-      },
-      {
-        "name": "bluetooth-off-biline",
-        "chineseName": "蓝牙关闭",
-        "category": "media",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/bluetooth-off-biline.svg"
       },
       {
         "name": "microphone-02-biline",
@@ -17737,12 +17575,6 @@
         "chineseName": "游戏手柄-02",
         "category": "media",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/gaming-pad-02-biline.svg"
-      },
-      {
-        "name": "music-note-plus-biline",
-        "chineseName": "音乐音符加",
-        "category": "media",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/music-note-plus-biline.svg"
       },
       {
         "name": "simcard-biline",
@@ -18381,58 +18213,10 @@
     ],
     "editor": [
       {
-        "name": "zoom-in-frame-biline",
-        "chineseName": "放大框",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/zoom-in-frame-biline.svg"
-      },
-      {
-        "name": "zoom-out-frame-biline",
-        "chineseName": "缩小框",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/zoom-out-frame-biline.svg"
-      },
-      {
-        "name": "draw-rectangle-biline",
-        "chineseName": "绘制矩形",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/draw-rectangle-biline.svg"
-      },
-      {
-        "name": "contrast-04-biline",
-        "chineseName": "对比度-04",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/contrast-04-biline.svg"
-      },
-      {
-        "name": "draw-circle-biline",
-        "chineseName": "绘制圆形",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/draw-circle-biline.svg"
-      },
-      {
-        "name": "draw-polygon-biline",
-        "chineseName": "绘制多边形",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/draw-polygon-biline.svg"
-      },
-      {
-        "name": "draw-line-biline",
-        "chineseName": "绘制线条",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/draw-line-biline.svg"
-      },
-      {
         "name": "align-center-biline",
         "chineseName": "居中对齐",
         "category": "editor",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/align-center-biline.svg"
-      },
-      {
-        "name": "draw-dot-biline",
-        "chineseName": "绘制点",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/draw-dot-biline.svg"
       },
       {
         "name": "cursor-02-biline",
@@ -18769,12 +18553,6 @@
         "chineseName": "画笔-03",
         "category": "editor",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/brush-03-biline.svg"
-      },
-      {
-        "name": "truer-biline",
-        "chineseName": "真实",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/truer-biline.svg"
       },
       {
         "name": "pen-tool-plus-biline",
@@ -19225,54 +19003,6 @@
     ],
     "files": [
       {
-        "name": "file-box-biline",
-        "chineseName": "文件框",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-box-biline.svg"
-      },
-      {
-        "name": "file-shape-biline",
-        "chineseName": "文件形状",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-shape-biline.svg"
-      },
-      {
-        "name": "file-cad-biline",
-        "chineseName": "文件CAD",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-cad-biline.svg"
-      },
-      {
-        "name": "file-csv-biline",
-        "chineseName": "文件CSV",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-csv-biline.svg"
-      },
-      {
-        "name": "file-pdf-biline",
-        "chineseName": "文件PDF",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-pdf-biline.svg"
-      },
-      {
-        "name": "file-doc-biline",
-        "chineseName": "文件DOC",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-doc-biline.svg"
-      },
-      {
-        "name": "file-xls-biline",
-        "chineseName": "文件XLS",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-xls-biline.svg"
-      },
-      {
-        "name": "file-zip-biline",
-        "chineseName": "文件ZIP",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-zip-biline.svg"
-      },
-      {
         "name": "file-01-biline",
         "chineseName": "文件-01",
         "category": "files",
@@ -19617,96 +19347,6 @@
     ],
     "maps": [
       {
-        "name": "farmland-seedling-biline",
-        "chineseName": "农田幼苗",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/farmland-seedling-biline.svg"
-      },
-      {
-        "name": "leaf-loop-biline",
-        "chineseName": "叶子循环",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/leaf-loop-biline.svg"
-      },
-      {
-        "name": "mine-car-biline",
-        "chineseName": "矿车",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/mine-car-biline.svg"
-      },
-      {
-        "name": "mountain-mine-biline",
-        "chineseName": "山矿",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/mountain-mine-biline.svg"
-      },
-      {
-        "name": "farmland-shield-biline",
-        "chineseName": "农田盾牌",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/farmland-shield-biline.svg"
-      },
-      {
-        "name": "marker-pin-07-biline",
-        "chineseName": "标记针-07",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/marker-pin-07-biline.svg"
-      },
-      {
-        "name": "flood-home-biline",
-        "chineseName": "洪水家园",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/flood-home-biline.svg"
-      },
-      {
-        "name": "earthquake-home-biline",
-        "chineseName": "地震家园",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/earthquake-home-biline.svg"
-      },
-      {
-        "name": "skyline-biline",
-        "chineseName": "天际线",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/skyline-biline.svg"
-      },
-      {
-        "name": "eye-map-biline",
-        "chineseName": "地图眼",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/eye-map-biline.svg"
-      },
-      {
-        "name": "mine-biline",
-        "chineseName": "矿",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/mine-biline.svg"
-      },
-      {
-        "name": "map-line-biline",
-        "chineseName": "地图线",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/map-line-biline.svg"
-      },
-      {
-        "name": "map-area-biline",
-        "chineseName": "地图区域",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/map-area-biline.svg"
-      },
-      {
-        "name": "map-dot-biline",
-        "chineseName": "地图点",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/map-dot-biline.svg"
-      },
-      {
-        "name": "measure-length-biline",
-        "chineseName": "测量长度",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/measure-length-biline.svg"
-      },
-      {
         "name": "bus-biline",
         "chineseName": "公交车",
         "category": "maps",
@@ -19731,12 +19371,6 @@
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/rocket-01-biline.svg"
       },
       {
-        "name": "car-01-biline",
-        "chineseName": "汽车-01",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/car-01-biline.svg"
-      },
-      {
         "name": "globe-02-biline",
         "chineseName": "地球-02",
         "category": "maps",
@@ -19753,12 +19387,6 @@
         "chineseName": "火箭-02",
         "category": "maps",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/rocket-02-biline.svg"
-      },
-      {
-        "name": "car-02-biline",
-        "chineseName": "汽车-02",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/car-02-biline.svg"
       },
       {
         "name": "globe-03-biline",
@@ -19975,12 +19603,6 @@
         "chineseName": "飞机",
         "category": "maps",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/plane-biline.svg"
-      },
-      {
-        "name": "entity-biline",
-        "chineseName": "实体",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/entity-biline.svg"
       }
     ],
     "weather": [
@@ -20302,12 +19924,6 @@
   "bifilled": {
     "layout": [
       {
-        "name": "grid-list-bifilled",
-        "chineseName": "网格列表",
-        "category": "layout",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/grid-list-bifilled.svg"
-      },
-      {
         "name": "align-bottom-01-bifilled",
         "chineseName": "底部对齐-01",
         "category": "layout",
@@ -20500,12 +20116,6 @@
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/rows-01-bifilled.svg"
       },
       {
-        "name": "align-top-01-bifilled",
-        "chineseName": "顶部对齐-01",
-        "category": "layout",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/align-top-01-bifilled.svg"
-      },
-      {
         "name": "grid-03-bifilled",
         "chineseName": "网格-03",
         "category": "layout",
@@ -20522,12 +20132,6 @@
         "chineseName": "行-02",
         "category": "layout",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/rows-02-bifilled.svg"
-      },
-      {
-        "name": "align-top-02-bifilled",
-        "chineseName": "顶部对齐-02",
-        "category": "layout",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/align-top-02-bifilled.svg"
       },
       {
         "name": "grid-dots-blank-bifilled",
@@ -20594,12 +20198,6 @@
         "chineseName": "高度间距-02",
         "category": "layout",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/spacing-height-02-bifilled.svg"
-      },
-      {
-        "name": "columns-01-bifilled",
-        "chineseName": "列-01",
-        "category": "layout",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/columns-01-bifilled.svg"
       },
       {
         "name": "grid-dots-left-bifilled",
@@ -20984,54 +20582,6 @@
     ],
     "security": [
       {
-        "name": "catalogue-key-bifilled",
-        "chineseName": "目录密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/catalogue-key-bifilled.svg"
-      },
-      {
-        "name": "function-key-bifilled",
-        "chineseName": "功能密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/function-key-bifilled.svg"
-      },
-      {
-        "name": "data-key-bifilled",
-        "chineseName": "数据密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/data-key-bifilled.svg"
-      },
-      {
-        "name": "grid-key-bifilled",
-        "chineseName": "网格密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/grid-key-bifilled.svg"
-      },
-      {
-        "name": "menu-key-bifilled",
-        "chineseName": "菜单密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/menu-key-bifilled.svg"
-      },
-      {
-        "name": "resources-key-bifilled",
-        "chineseName": "资源密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/resources-key-bifilled.svg"
-      },
-      {
-        "name": "user-key-bifilled",
-        "chineseName": "用户密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/user-key-bifilled.svg"
-      },
-      {
-        "name": "shield-search-bifilled",
-        "chineseName": "保护盾搜索",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/shield-search-bifilled.svg"
-      },
-      {
         "name": "face-id-bifilled",
         "chineseName": "面部识别",
         "category": "security",
@@ -21246,12 +20796,6 @@
         "chineseName": "保护盾-02",
         "category": "security",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/shield-02-bifilled.svg"
-      },
-      {
-        "name": "categray-key-bifilled",
-        "chineseName": "类别密钥",
-        "category": "security",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/categray-key-bifilled.svg"
       }
     ],
     "education": [
@@ -21388,12 +20932,6 @@
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/briefcase-01-bifilled.svg"
       },
       {
-        "name": "globe-slated-01-bifilled",
-        "chineseName": "全球-01",
-        "category": "education",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/globe-slated-01-bifilled.svg"
-      },
-      {
         "name": "trophy-01-bifilled",
         "chineseName": "奖杯-01",
         "category": "education",
@@ -21410,12 +20948,6 @@
         "chineseName": "公文包-02",
         "category": "education",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/briefcase-02-bifilled.svg"
-      },
-      {
-        "name": "globe-slated-02-bifilled",
-        "chineseName": "全球-02",
-        "category": "education",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/globe-slated-02-bifilled.svg"
       },
       {
         "name": "trophy-02-bifilled",
@@ -21443,12 +20975,6 @@
       }
     ],
     "development": [
-      {
-        "name": "database-plus-bifilled",
-        "chineseName": "数据库加",
-        "category": "development",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/database-plus-bifilled.svg"
-      },
       {
         "name": "brackets-bifilled",
         "chineseName": "括号",
@@ -21794,40 +21320,10 @@
     ],
     "arrows": [
       {
-        "name": "collapse-01-bifilled",
-        "chineseName": "折叠-01",
-        "category": "arrows",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/collapse-01-bifilled.svg"
-      },
-      {
-        "name": "collapse-03-bifilled",
-        "chineseName": "折叠-03",
-        "category": "arrows",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/collapse-03-bifilled.svg"
-      },
-      {
-        "name": "collapse-05-bifilled",
-        "chineseName": "折叠-05",
-        "category": "arrows",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/collapse-05-bifilled.svg"
-      },
-      {
-        "name": "collapse-06-bifilled",
-        "chineseName": "折叠-06",
-        "category": "arrows",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/collapse-06-bifilled.svg"
-      },
-      {
         "name": "arrow-block-down-bifilled",
         "chineseName": "箭头块向下",
         "category": "arrows",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/arrow-block-down-bifilled.svg"
-      },
-      {
-        "name": "collapse-04-bifilled",
-        "chineseName": "折叠-04",
-        "category": "arrows",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/collapse-04-bifilled.svg"
       },
       {
         "name": "arrow-left-bifilled",
@@ -24010,12 +23506,6 @@
         "chineseName": "分享-04",
         "category": "general",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/share-04-bifilled.svg"
-      },
-      {
-        "name": "seal-bifilled",
-        "chineseName": "印章",
-        "category": "general",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/seal-bifilled.svg"
       }
     ],
     "feedback": [
@@ -24060,12 +23550,6 @@
         "chineseName": "铃声关闭-03",
         "category": "feedback",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/bell-off-03-bifilled.svg"
-      },
-      {
-        "name": "notification-message-bifilled",
-        "chineseName": "通知消息",
-        "category": "feedback",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/notification-message-bifilled.svg"
       },
       {
         "name": "alert-octagon-bifilled",
@@ -24177,12 +23661,6 @@
       }
     ],
     "shapes": [
-      {
-        "name": "quadgon-bifilled",
-        "chineseName": "四边形",
-        "category": "shapes",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/quadgon-bifilled.svg"
-      },
       {
         "name": "circle-bifilled",
         "chineseName": "圆形",
@@ -24596,12 +24074,6 @@
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/keyboard-02-bifilled.svg"
       },
       {
-        "name": "guncam-01-bifilled",
-        "chineseName": "枪摄像头-01",
-        "category": "media",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/guncam-01-bifilled.svg"
-      },
-      {
         "name": "play-bifilled",
         "chineseName": "播放",
         "category": "media",
@@ -24804,12 +24276,6 @@
         "chineseName": "平板电脑-01",
         "category": "media",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/tablet-01-bifilled.svg"
-      },
-      {
-        "name": "bluetooth-off-bifilled",
-        "chineseName": "蓝牙关闭",
-        "category": "media",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/bluetooth-off-bifilled.svg"
       },
       {
         "name": "microphone-02-bifilled",
@@ -25122,12 +24588,6 @@
         "chineseName": "游戏手柄-02",
         "category": "media",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/gaming-pad-02-bifilled.svg"
-      },
-      {
-        "name": "music-note-plus-bifilled",
-        "chineseName": "音乐音符加",
-        "category": "media",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/music-note-plus-bifilled.svg"
       },
       {
         "name": "simcard-bifilled",
@@ -25766,58 +25226,10 @@
     ],
     "editor": [
       {
-        "name": "zoom-in-frame-bifilled",
-        "chineseName": "放大框",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/zoom-in-frame-bifilled.svg"
-      },
-      {
-        "name": "zoom-out-frame-bifilled",
-        "chineseName": "缩小框",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/zoom-out-frame-bifilled.svg"
-      },
-      {
-        "name": "draw-rectangle-bifilled",
-        "chineseName": "绘制矩形",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/draw-rectangle-bifilled.svg"
-      },
-      {
-        "name": "contrast-04-bifilled",
-        "chineseName": "对比度-04",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/contrast-04-bifilled.svg"
-      },
-      {
-        "name": "draw-circle-bifilled",
-        "chineseName": "绘制圆形",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/draw-circle-bifilled.svg"
-      },
-      {
-        "name": "draw-polygon-bifilled",
-        "chineseName": "绘制多边形",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/draw-polygon-bifilled.svg"
-      },
-      {
-        "name": "draw-line-bifilled",
-        "chineseName": "绘制线条",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/draw-line-bifilled.svg"
-      },
-      {
         "name": "align-center-bifilled",
         "chineseName": "居中对齐",
         "category": "editor",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/align-center-bifilled.svg"
-      },
-      {
-        "name": "draw-dot-bifilled",
-        "chineseName": "绘制点",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/draw-dot-bifilled.svg"
       },
       {
         "name": "cursor-02-bifilled",
@@ -26154,12 +25566,6 @@
         "chineseName": "画笔-03",
         "category": "editor",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/brush-03-bifilled.svg"
-      },
-      {
-        "name": "truer-bifilled",
-        "chineseName": "真实",
-        "category": "editor",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/truer-bifilled.svg"
       },
       {
         "name": "pen-tool-plus-bifilled",
@@ -26610,54 +26016,6 @@
     ],
     "files": [
       {
-        "name": "file-box-bifilled",
-        "chineseName": "文件框",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-box-bifilled.svg"
-      },
-      {
-        "name": "file-shape-bifilled",
-        "chineseName": "文件形状",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-shape-bifilled.svg"
-      },
-      {
-        "name": "file-cad-bifilled",
-        "chineseName": "文件CAD",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-cad-bifilled.svg"
-      },
-      {
-        "name": "file-csv-bifilled",
-        "chineseName": "文件CSV",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-csv-bifilled.svg"
-      },
-      {
-        "name": "file-pdf-bifilled",
-        "chineseName": "文件PDF",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-pdf-bifilled.svg"
-      },
-      {
-        "name": "file-doc-bifilled",
-        "chineseName": "文件DOC",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-doc-bifilled.svg"
-      },
-      {
-        "name": "file-xls-bifilled",
-        "chineseName": "文件XLS",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-xls-bifilled.svg"
-      },
-      {
-        "name": "file-zip-bifilled",
-        "chineseName": "文件ZIP",
-        "category": "files",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/file-zip-bifilled.svg"
-      },
-      {
         "name": "file-01-bifilled",
         "chineseName": "文件-01",
         "category": "files",
@@ -27002,96 +26360,6 @@
     ],
     "maps": [
       {
-        "name": "farmland-seedling-bifilled",
-        "chineseName": "农田幼苗",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/farmland-seedling-bifilled.svg"
-      },
-      {
-        "name": "leaf-loop-bifilled",
-        "chineseName": "叶子循环",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/leaf-loop-bifilled.svg"
-      },
-      {
-        "name": "mine-car-bifilled",
-        "chineseName": "矿车",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/mine-car-bifilled.svg"
-      },
-      {
-        "name": "mountain-mine-bifilled",
-        "chineseName": "山矿",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/mountain-mine-bifilled.svg"
-      },
-      {
-        "name": "farmland-shield-bifilled",
-        "chineseName": "农田盾牌",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/farmland-shield-bifilled.svg"
-      },
-      {
-        "name": "marker-pin-07-bifilled",
-        "chineseName": "标记针-07",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/marker-pin-07-bifilled.svg"
-      },
-      {
-        "name": "flood-home-bifilled",
-        "chineseName": "洪水家园",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/flood-home-bifilled.svg"
-      },
-      {
-        "name": "earthquake-home-bifilled",
-        "chineseName": "地震家园",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/earthquake-home-bifilled.svg"
-      },
-      {
-        "name": "skyline-bifilled",
-        "chineseName": "天际线",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/skyline-bifilled.svg"
-      },
-      {
-        "name": "eye-map-bifilled",
-        "chineseName": "地图眼",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/eye-map-bifilled.svg"
-      },
-      {
-        "name": "mine-bifilled",
-        "chineseName": "矿",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/mine-bifilled.svg"
-      },
-      {
-        "name": "map-line-bifilled",
-        "chineseName": "地图线",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/map-line-bifilled.svg"
-      },
-      {
-        "name": "map-area-bifilled",
-        "chineseName": "地图区域",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/map-area-bifilled.svg"
-      },
-      {
-        "name": "map-dot-bifilled",
-        "chineseName": "地图点",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/map-dot-bifilled.svg"
-      },
-      {
-        "name": "measure-length-bifilled",
-        "chineseName": "测量长度",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/measure-length-bifilled.svg"
-      },
-      {
         "name": "bus-bifilled",
         "chineseName": "公交车",
         "category": "maps",
@@ -27116,12 +26384,6 @@
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/rocket-01-bifilled.svg"
       },
       {
-        "name": "car-01-bifilled",
-        "chineseName": "汽车-01",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/car-01-bifilled.svg"
-      },
-      {
         "name": "globe-02-bifilled",
         "chineseName": "地球-02",
         "category": "maps",
@@ -27138,12 +26400,6 @@
         "chineseName": "火箭-02",
         "category": "maps",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/rocket-02-bifilled.svg"
-      },
-      {
-        "name": "car-02-bifilled",
-        "chineseName": "汽车-02",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/car-02-bifilled.svg"
       },
       {
         "name": "globe-03-bifilled",
@@ -27360,12 +26616,6 @@
         "chineseName": "飞机",
         "category": "maps",
         "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/plane-bifilled.svg"
-      },
-      {
-        "name": "entity-bifilled",
-        "chineseName": "实体",
-        "category": "maps",
-        "svgUrl": "https://raw.githubusercontent.com/limao6/icon-library/main/icons/entity-bifilled.svg"
       }
     ],
     "weather": [
